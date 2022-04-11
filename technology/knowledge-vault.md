@@ -37,6 +37,9 @@ https://www.youtube.com/c/BlackHatOfficialYT/featured
 
 https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
 
+https://ramimac.me/
+
+
 ### Career
 
 https://hbr.org/2019/03/the-feedback-fallacy
