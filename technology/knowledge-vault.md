@@ -39,6 +39,8 @@ https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html
 
 https://ramimac.me/
 
+https://www.nojones.net
+
 
 ### Career
 
