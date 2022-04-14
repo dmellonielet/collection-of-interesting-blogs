@@ -60,3 +60,7 @@ https://github.com/donnemartin/system-design-primer
 ### Cloud
 
 https://serverlessland.com/patterns
+
+https://aws.amazon.com/builders-library
+
+
