@@ -8,6 +8,8 @@ https://sfelc.com/podcasts
 
 https://www.progression.fyi/
 
+https://ferd.ca/embrace-complexity-tighten-your-feedback-loops.html
+
 
 ### Security
 
